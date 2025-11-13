@@ -1,34 +1,42 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Navigation from './components/Navigation'
+import Home from './pages/Home'
+import WhatAreFossilFuels from './pages/WhatAreFossilFuels'
+import ConcernsAndEffects from './pages/ConcernsAndEffects'
+import HowToHelp from './pages/HowToHelp'
+import References from './pages/References'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [currentPage, setCurrentPage] = useState('home')
+
+  const renderPage = () => {
+    switch (currentPage) {
+      case 'home':
+        return <Home />
+      case 'whatAre':
+        return <WhatAreFossilFuels />
+      case 'concerns':
+        return <ConcernsAndEffects />
+      case 'help':
+        return <HowToHelp />
+      case 'references':
+        return <References />
+      default:
+        return <Home />
+    }
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <div className="app">
+      <Navigation currentPage={currentPage} setCurrentPage={setCurrentPage} />
+      <main className="main-content">
+        {renderPage()}
+      </main>
+      <footer className="footer">
+        <p>&copy; 2025 Fossil Fuels in Wisconsin. Informing the public to drive change.</p>
+      </footer>
+    </div>
   )
 }
 
