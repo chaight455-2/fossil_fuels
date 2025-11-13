@@ -19,16 +19,8 @@ function References() {
         <h2>Government & Scientific Organizations</h2>
         <div className="reference-list">
           <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Government agency or scientific organization reference with URL or citation information]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional government or scientific reference]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional government or scientific reference]</p>
+            <h4>U.S. Energy Information Administration - EIA - Independent Statistics and Analysis</h4>
+            <p>Retrieved from https://www.eia.gov/state/analysis.php?sid=WI</p>
           </div>
         </div>
       </section>
@@ -37,16 +29,12 @@ function References() {
         <h2>Environmental Organizations</h2>
         <div className="reference-list">
           <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Environmental organization reference with URL or citation information]</p>
+            <h4>Beyond Coal</h4>
+            <p>Sierra Club. Retrieved from https://www.sierraclub.org/wisconsin/four-lakes/beyond-coal</p>
           </div>
           <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional environmental organization reference]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional environmental organization reference]</p>
+            <h4>Wisconsin's Dirtiest Power Plants</h4>
+            <p>Wisconsin Environment Research & Policy Center (2022, June 23). Retrieved from https://environmentamerica.org</p>
           </div>
         </div>
       </section>
@@ -55,61 +43,10 @@ function References() {
         <h2>Wisconsin-Specific Resources</h2>
         <div className="reference-list">
           <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Wisconsin state government or local resource reference]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Wisconsin environmental or community organization reference]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Wisconsin energy or sustainability related reference]</p>
+            <h4>Solar Installations</h4>
+            <p>Wisconsin Department of Natural Resources. Retrieved from https://dnr.wisconsin.gov/topic/Sectors/SolarInstallations</p>
           </div>
         </div>
-      </section>
-
-      <section className="content-section">
-        <h2>Health & Medical Sources</h2>
-        <div className="reference-list">
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Medical or health organization reference about air pollution and health impacts]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Health research or medical reference about climate and health]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Health equity or environmental justice reference]</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="content-section">
-        <h2>Peer-Reviewed Research</h2>
-        <div className="reference-list">
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Peer-reviewed scientific study citation and DOI or URL]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional peer-reviewed research citation]</p>
-          </div>
-          <div className="reference-item">
-            <h4>[Reference Title]</h4>
-            <p>[PLACEHOLDER TEXT: Additional peer-reviewed research citation]</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="content-section">
-        <h2>How to Use These References</h2>
-        <p>
-          [PLACEHOLDER TEXT: Instructions for how readers can use these references to verify information, learn more about specific topics, and explore related research on their own. Encourage critical thinking and engagement with the sources.]
-        </p>
       </section>
     </div>
   )

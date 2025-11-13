@@ -13,7 +13,7 @@ function ConcernsAndEffects() {
         <div className="subsection">
           <h3>Climate Change</h3>
           <p>
-            [PLACEHOLDER TEXT: Comprehensive explanation of how burning fossil fuels contributes to climate change through greenhouse gas emissions, and the specific effects on Wisconsin's climate.]
+            Fossil fuel emissions overall are one of the largest contributors to climate change. There is a large portion of Wisconsin's energy that relies very heavily on coal and natural gas. These two sources release CO2, methane and other greenhouse gases into the atmosphere. This increases the overall temperature of the climate system.
           </p>
         </div>
         <div className="subsection">
@@ -31,7 +31,7 @@ function ConcernsAndEffects() {
         <div className="subsection">
           <h3>Biodiversity Loss</h3>
           <p>
-            [PLACEHOLDER TEXT: Explanation of how fossil fuel development and climate change threaten wildlife and ecosystems in Wisconsin.]
+            Fossil fuels are a very critical and important issue that impacts the environment as well as many communities across the state of Wisconsin. Although burning coal and other natural gases have previously been seen as the more economically effective option, scientists have thoroughly proven that these methods come with very serious consequences. The old systems of burning coal to produce gas pollutes the atmosphere, land and water. Therefore heavily disrupting ecosystems all while contributing to larger impacts such as flooding, unpredictable weather, and the loss of biodiversity.
           </p>
         </div>
       </section>
@@ -41,7 +41,7 @@ function ConcernsAndEffects() {
         <div className="subsection">
           <h3>Respiratory Diseases</h3>
           <p>
-            [PLACEHOLDER TEXT: Information about respiratory problems caused by air pollution from fossil fuels, including asthma and chronic obstructive pulmonary disease (COPD).]
+            Emissions that are released by these plants are extremely harmful to public health. Many residents that live near these systems are at high risk for long term respiratory issues and even shorter life spans from particulate matter as well as exposure of the ozone layer. Many Wisconsinites unfortunately remain unaware of this serious harm and take little to no action. Communities near Milwaukee and Portage, where there are large power plants, have reported that asthma rates are skyrocketing as well as soil depletion. These results show that fossil fuels are not just an environmental issue, but a serious issue of human safety and well being.
           </p>
         </div>
         <div className="subsection">
@@ -68,7 +68,7 @@ function ConcernsAndEffects() {
       <section className="content-section">
         <h2>Wisconsin-Specific Impacts</h2>
         <p>
-          [PLACEHOLDER TEXT: Information about how fossil fuel use specifically affects Wisconsin - from agricultural impacts due to changing climate, to effects on tourism and recreation industries.]
+          Many people in Wisconsin are working hard toward community based solutions. There are several groups such as: Clean Wisconsin, the Department of Natural Resources, and even local coalitions that have collaborated with local residents to create clean and safe solutions. For example, Clean Wisconsin has a "Beyond Coal" organization. These individuals advocate for renewable energy and strict emission laws. In addition, the Department of Natural resources is working closely with rural areas to install solar panels to decrease the use of fossil fuels. These organizations show that a strong action within the community can reduce fossil fuels and encourage alternative energy one step at a time.
         </p>
       </section>
     </div>

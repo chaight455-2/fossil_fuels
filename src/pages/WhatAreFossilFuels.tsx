@@ -34,7 +34,7 @@ function WhatAreFossilFuels() {
       <section className="content-section">
         <h2>Current Usage in Wisconsin</h2>
         <p>
-          [PLACEHOLDER TEXT: Statistics and information about how much fossil fuels Wisconsin currently uses, which sectors use the most, and trends over time.]
+          Wisconsin is an averagely sized state with an averagely sized population, meaning there is a high demand for energy. According to the U.S. Energy Information Administration, Wisconsin's energy is generated primarily by 7 coal-fired plants and 3 methane-gas fired plants. Wisconsin is currently home to 2 of the top 100 dirtiest power plants in the U.S. These outdated plants have been used to generate Wisconsin's energy for around 45 years now. When these fossil fuels are burned, they release harmful chemicals like carbon dioxide, methane, and nitrous dioxide into the atmosphere.
         </p>
       </section>
 
