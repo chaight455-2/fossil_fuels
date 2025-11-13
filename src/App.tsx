@@ -13,7 +13,7 @@ function App() {
   const renderPage = () => {
     switch (currentPage) {
       case 'home':
-        return <Home />
+        return <Home setCurrentPage={setCurrentPage} />
       case 'whatAre':
         return <WhatAreFossilFuels />
       case 'concerns':
@@ -23,7 +23,7 @@ function App() {
       case 'references':
         return <References />
       default:
-        return <Home />
+        return <Home setCurrentPage={setCurrentPage} />
     }
   }
 

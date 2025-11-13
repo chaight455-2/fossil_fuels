@@ -1,6 +1,10 @@
 import '../styles/Pages.css'
 
-function Home() {
+interface HomeProps {
+  setCurrentPage: (page: string) => void
+}
+
+function Home({ setCurrentPage }: HomeProps) {
   return (
     <div className="page">
       <section className="hero">
@@ -20,18 +24,18 @@ function Home() {
       <section className="content-section cards-container">
         <h2>Explore the Topics</h2>
         <div className="card-grid">
-          <div className="info-card">
+          <button className="info-card" onClick={() => setCurrentPage('whatAre')}>
             <h3>What Are Fossil Fuels?</h3>
             <p>[PLACEHOLDER TEXT: Brief description of what fossil fuels are and why it's important to understand them.]</p>
-          </div>
-          <div className="info-card">
+          </button>
+          <button className="info-card" onClick={() => setCurrentPage('concerns')}>
             <h3>Concerns & Effects</h3>
             <p>[PLACEHOLDER TEXT: Overview of environmental and health concerns related to fossil fuel consumption.]</p>
-          </div>
-          <div className="info-card">
+          </button>
+          <button className="info-card" onClick={() => setCurrentPage('help')}>
             <h3>How to Help</h3>
             <p>[PLACEHOLDER TEXT: Introduction to actions individuals can take to reduce their fossil fuel consumption and environmental impact.]</p>
-          </div>
+          </button>
         </div>
       </section>
 
