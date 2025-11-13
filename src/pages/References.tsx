@@ -32,10 +32,6 @@ function References() {
             <h4>Beyond Coal</h4>
             <p>Sierra Club. Retrieved from https://www.sierraclub.org/wisconsin/four-lakes/beyond-coal</p>
           </div>
-          <div className="reference-item">
-            <h4>Wisconsin's Dirtiest Power Plants</h4>
-            <p>Wisconsin Environment Research & Policy Center (2022, June 23). Retrieved from https://environmentamerica.org</p>
-          </div>
         </div>
       </section>
 
@@ -46,6 +42,10 @@ function References() {
             <h4>Solar Installations</h4>
             <p>Wisconsin Department of Natural Resources. Retrieved from https://dnr.wisconsin.gov/topic/Sectors/SolarInstallations</p>
           </div>
+            <div className="reference-item">
+            <h4>Wisconsin's Dirtiest Power Plants</h4>
+            <p>Wisconsin Environment Research & Policy Center (2022, June 23). Retrieved from https://environmentamerica.org</p>
+            </div>
         </div>
       </section>
     </div>
