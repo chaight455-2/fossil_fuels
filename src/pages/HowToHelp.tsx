@@ -10,29 +10,106 @@ function HowToHelp() {
 
       <section className="content-section">
         <h2>Transportation</h2>
+
         <div className="subsection">
           <h3>Use Public Transportation</h3>
           <p>
-            [PLACEHOLDER TEXT: Information about public transit options in Wisconsin and how using buses, trains, or other public transportation reduces carbon emissions compared to driving personal vehicles.]
+            Taking a bus or train is one of the most straightforward ways for people to reduce their personal 
+            fossil fuel consumption in everyday life. Rather than each person driving a car, case where one 
+            vehicle can take dozens of people, so emissions and air pollution per passenger is cut by a large amount. 
+            Wisconsin has public transportation systems that provide service to cities, suburbs, college campuses, 
+            and rural areas, including local bus systems, shared-ride taxis, and intercity bus routes that connect 
+            towns across the whole state.
           </p>
+          <ul className="action-list">
+            <li>
+              Visit your local transit agency&apos;s website (for example, Metro Transit in Madison or
+              Milwaukee County Transit System) to plan a route to school, work, or errands.
+            </li>
+            <li>
+              Use Wisconsin&apos;s statewide public transit map and &quot;Get-Around Guide&quot; to find
+              bus and intercity routes near your community.
+            </li>
+            <li>
+              Try replacing one regular car trip each week with a bus ride and see how it fits into your
+              routine.
+            </li>
+          </ul>
         </div>
+
         <div className="subsection">
           <h3>Carpool or Vanpool</h3>
           <p>
-            [PLACEHOLDER TEXT: Explanation of how sharing rides reduces fuel consumption per person and suggestions for finding carpool programs in Wisconsin communities.]
+            When ride-sharing occurs, each person&apos;s share of fuel burned (and emissions produced) is 
+            made smaller. Carpooling and vanpooling are especially beneficial for longer commutes when it 
+            is not realistic to bike or walk. Wisconsin supports ride-sharing with state and local ride-sharing 
+            programs that help with matching rides, coordinating schedules, and in some cases even provide a 
+            convenient place to meet.
           </p>
+          <ul className="action-list">
+            <li>
+              Use Wisconsin&apos;s RIDESHARE program to find or start a carpool or vanpool with people
+              who live and work near you.
+            </li>
+            <li>
+              Meet at a nearby park-and-ride lot so drivers can leave extra cars in a safe, free parking
+              area and share one vehicle for the rest of the trip.
+            </li>
+            <li>
+              Ask your school, employer, or community group to promote carpooling through bulletin boards,
+              email lists, or commuter challenges.
+            </li>
+          </ul>
         </div>
+
         <div className="subsection">
           <h3>Walk or Bike</h3>
           <p>
-            [PLACEHOLDER TEXT: Benefits of walking or biking for short trips, including health benefits and zero emissions, plus information about bike paths and sidewalk infrastructure in Wisconsin.]
+            For shorter trips, it is often just as fast to walk or bike as it is to drive when considering 
+            parking and traffic. These activities use zero fossil fuel, produce zero tailpipe emissions, 
+            and provide major health benefits (e.g. more physical activity and less stress). Communities in 
+            Wisconsin are spending money and time on sidewalks, bike lanes, and multi-use trails so that it 
+            is safer and easier to get around without using cars.
           </p>
+          <ul className="action-list">
+            <li>
+              Choose one or two regular trips—like going to a friend&apos;s house, a nearby store, or
+              campus—that you commit to walking or biking instead of driving.
+            </li>
+            <li>
+              Explore local trail maps and bike routes to find comfortable paths away from heavy traffic.
+            </li>
+            <li>
+              Advocate for better sidewalks, crosswalks, and bike lanes by contacting local officials or
+              supporting organizations that work on walking and biking infrastructure.
+            </li>
+          </ul>
         </div>
+
         <div className="subsection">
           <h3>Switch to Electric or Hybrid Vehicles</h3>
           <p>
-            [PLACEHOLDER TEXT: Overview of electric and hybrid vehicle options, incentives available in Wisconsin, and information about charging infrastructure.]
+            Compared to conventional gasoline vehicles, electric and hybrid vehicles utilize energy more 
+            effectively and can substantially reduce fossil fuel usage and tailpipe emissions. Hybrid vehicles 
+            utilize a gasoline engine in combination with an electric motor to decrease fuel usage, while plug-in 
+            hybrids and fully electric vehicles (EVs) can travel many miles on electric power alone. The benefits 
+            of transitioning from internal combustion engines to fully electric vehicles will increase as the 
+            electricity grid added more renewable energy.
           </p>
+          <ul className="action-list">
+            <li>
+              Learn about different EV and hybrid models, including their driving range, charging needs,
+              and total cost of ownership compared to a conventional car.
+            </li>
+            <li>
+              Check for federal tax credits and Wisconsin-specific incentives, such as rebates from local
+              utilities or special electricity rates for charging at night.
+            </li>
+            <li>
+              Use charging station maps to find public chargers at workplaces, shopping centers, and along
+              major highways so you can plan longer trips with confidence.
+            </li>
+          </ul>
         </div>
       </section>
 
