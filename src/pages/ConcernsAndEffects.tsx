@@ -17,16 +17,22 @@ function ConcernsAndEffects() {
           </p>
         </div>
         <div className="subsection">
-          <h3>Air Quality</h3>
-          <p>
-            [PLACEHOLDER TEXT: Information about air pollution caused by fossil fuel combustion, including particulate matter, nitrogen oxides, and sulfur dioxide, and how these affect Wisconsin communities.]
-          </p>
+          <div>
+            <h3>Air Quality</h3>
+            <p>
+              [PLACEHOLDER TEXT: Information about air pollution caused by fossil fuel combustion, including particulate matter, nitrogen oxides, and sulfur dioxide, and how these affect Wisconsin communities.]
+            </p>
+          </div>
+          <img src="/src/assets/Smog_coming_out_of_factory.webp" alt="Smog coming out of factory" className="section-image" />
         </div>
         <div className="subsection">
-          <h3>Water Pollution</h3>
-          <p>
-            [PLACEHOLDER TEXT: Details on water pollution from fossil fuel extraction, processing, and use, including impacts on Wisconsin's lakes and waterways.]
-          </p>
+          <div>
+            <h3>Water Pollution</h3>
+            <p>
+              [PLACEHOLDER TEXT: Details on water pollution from fossil fuel extraction, processing, and use, including impacts on Wisconsin's lakes and waterways.]
+            </p>
+          </div>
+          <img src="/src/assets/polluted_water.webp" alt="Polluted water" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Biodiversity Loss</h3>

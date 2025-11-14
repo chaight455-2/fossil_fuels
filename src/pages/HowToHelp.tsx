@@ -11,10 +11,13 @@ function HowToHelp() {
       <section className="content-section">
         <h2>Transportation</h2>
         <div className="subsection">
-          <h3>Use Public Transportation</h3>
-          <p>
-            [PLACEHOLDER TEXT: Information about public transit options in Wisconsin and how using buses, trains, or other public transportation reduces carbon emissions compared to driving personal vehicles.]
-          </p>
+          <div>
+            <h3>Use Public Transportation</h3>
+            <p>
+              [PLACEHOLDER TEXT: Information about public transit options in Wisconsin and how using buses, trains, or other public transportation reduces carbon emissions compared to driving personal vehicles.]
+            </p>
+          </div>
+          <img src="/src/assets/cityscape_with_bikers_and_buses.webp" alt="Cityscape with bikers and buses" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Carpool or Vanpool</h3>
@@ -79,10 +82,13 @@ function HowToHelp() {
           </p>
         </div>
         <div className="subsection">
-          <h3>Eat Less Meat</h3>
-          <p>
-            [PLACEHOLDER TEXT: Explanation of how meat production uses significant fossil fuels and how reducing meat consumption helps the environment.]
-          </p>
+          <div>
+            <h3>Eat Less Meat</h3>
+            <p>
+              [PLACEHOLDER TEXT: Explanation of how meat production uses significant fossil fuels and how reducing meat consumption helps the environment.]
+            </p>
+          </div>
+          <img src="/src/assets/Vegetables_on_plates.webp" alt="Vegetables on plates" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Support Sustainable Businesses</h3>

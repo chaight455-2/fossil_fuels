@@ -76,25 +76,28 @@ function WhatAreFossilFuels() {
         </div>
 
         <div className="subsection">
-          <h3>Oil/Petroleum</h3>
-          <p>
-            Oil, or petroleum, is a thick liquid fossil fuel that formed mainly from microscopic marine
-            organisms that settled on ancient seafloors. Over millions of years, heat and pressure turned
-            this organic-rich mud into oil and natural gas trapped in porous rock layers. Modern companies
-            locate these deposits using geological surveys and then drill wells on land or offshore to
-            reach them. In many regions, hydraulic fracturing is used to increase how much oil and gas can
-            flow from each well.
-          </p>
-          <p>
-            Crude oil is transported by pipelines, ships, rail, and trucks to refineries. There it is
-            heated and separated into different products in large distillation towers. These products
-            include gasoline, diesel, jet fuel, heating oil, and petrochemical feedstocks that are used to
-            make plastics, fertilizers, and many everyday products. Wisconsin does not produce much oil
-            itself, but our daily life depends on petroleum: most cars and trucks on Wisconsin roads still
-            run on gasoline or diesel, farm equipment relies on diesel, and airplanes use jet fuel. The
-            combustion of these fuels is a major source of climate-warming emissions and local air pollution.
-          </p>
+          <div>
+            <h3>Oil/Petroleum</h3>
+            <p>
+              Oil, or petroleum, is a thick liquid fossil fuel that formed mainly from microscopic marine
+              organisms that settled on ancient seafloors. Over millions of years, heat and pressure turned
+              this organic-rich mud into oil and natural gas trapped in porous rock layers. Modern companies
+              locate these deposits using geological surveys and then drill wells on land or offshore to
+              reach them. In many regions, hydraulic fracturing is used to increase how much oil and gas can
+              flow from each well.
+            </p>
+          </div>
+          <img src="/src/assets/hands_cupped_with_oil_in_them.webp" alt="Hands cupped with oil" className="section-image" />
         </div>
+        <p>
+              Crude oil is transported by pipelines, ships, rail, and trucks to refineries. There it is
+              heated and separated into different products in large distillation towers. These products
+              include gasoline, diesel, jet fuel, heating oil, and petrochemical feedstocks that are used to
+              make plastics, fertilizers, and many everyday products. Wisconsin does not produce much oil
+              itself, but our daily life depends on petroleum: most cars and trucks on Wisconsin roads still
+              run on gasoline or diesel, farm equipment relies on diesel, and airplanes use jet fuel. The
+              combustion of these fuels is a major source of climate-warming emissions and local air pollution.
+          </p>
       </section>
 
       <section className="content-section">
