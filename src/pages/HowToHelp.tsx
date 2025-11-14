@@ -1,4 +1,6 @@
 import '../styles/Pages.css'
+import busImage from '../assets/cityscape_with_bikers_and_buses.webp'
+import veggiesImage from '../assets/Vegetables_on_plates.webp'
 
 function HowToHelp() {
   return (
@@ -37,7 +39,7 @@ function HowToHelp() {
             </li>
           </ul>
           </div>
-          <img src="/src/assets/cityscape_with_bikers_and_buses.webp" alt="Cityscape with bikers and buses" className="section-image" />
+          <img src={busImage} alt="Cityscape with bikers and buses" className="section-image" />
         </div>
 
         <div className="subsection">
@@ -99,7 +101,8 @@ function HowToHelp() {
             of transitioning from internal combustion engines to fully electric vehicles will increase as the 
             electricity grid added more renewable energy.
           </p>
-          <ul className="action-list">
+        </div>
+        <ul className="action-list">
             <li>
               Learn about different EV and hybrid models, including their driving range, charging needs,
               and total cost of ownership compared to a conventional car.
@@ -113,7 +116,6 @@ function HowToHelp() {
               major highways so you can plan longer trips with confidence.
             </li>
           </ul>
-        </div>
       </section>
 
       <section className="content-section">
@@ -165,7 +167,7 @@ function HowToHelp() {
               [PLACEHOLDER TEXT: Explanation of how meat production uses significant fossil fuels and how reducing meat consumption helps the environment.]
             </p>
           </div>
-          <img src="/src/assets/Vegetables_on_plates.webp" alt="Vegetables on plates" className="section-image" />
+          <img src={veggiesImage} alt="Vegetables on plates" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Support Sustainable Businesses</h3>

@@ -1,4 +1,5 @@
 import '../styles/Pages.css'
+import oilImage from '../assets/hands_cupped_with_oil_in_them.webp'
 
 function WhatAreFossilFuels() {
   return (
@@ -87,7 +88,7 @@ function WhatAreFossilFuels() {
               flow from each well.
             </p>
           </div>
-          <img src="/src/assets/hands_cupped_with_oil_in_them.webp" alt="Hands cupped with oil" className="section-image" />
+          <img src={oilImage} alt="Hands cupped with oil" className="section-image" />
         </div>
         <p>
               Crude oil is transported by pipelines, ships, rail, and trucks to refineries. There it is

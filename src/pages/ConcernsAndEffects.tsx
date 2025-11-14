@@ -1,4 +1,6 @@
 import '../styles/Pages.css'
+import smogImage from '../assets/Smog_coming_out_of_factory.webp'
+import waterImage from '../assets/polluted_water.webp'
 
 function ConcernsAndEffects() {
   return (
@@ -23,7 +25,7 @@ function ConcernsAndEffects() {
               [PLACEHOLDER TEXT: Information about air pollution caused by fossil fuel combustion, including particulate matter, nitrogen oxides, and sulfur dioxide, and how these affect Wisconsin communities.]
             </p>
           </div>
-          <img src="/src/assets/Smog_coming_out_of_factory.webp" alt="Smog coming out of factory" className="section-image" />
+          <img src={smogImage} alt="Smog coming out of factory" className="section-image" />
         </div>
         <div className="subsection">
           <div>
@@ -32,7 +34,7 @@ function ConcernsAndEffects() {
               [PLACEHOLDER TEXT: Details on water pollution from fossil fuel extraction, processing, and use, including impacts on Wisconsin's lakes and waterways.]
             </p>
           </div>
-          <img src="/src/assets/polluted_water.webp" alt="Polluted water" className="section-image" />
+          <img src={waterImage} alt="Polluted water" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Biodiversity Loss</h3>
