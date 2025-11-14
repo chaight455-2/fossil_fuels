@@ -1,4 +1,4 @@
-### Deploying From Your Terminal
+### Running on your local machine
 
 You can deploy your new Vite project on your computer by running these commands from the root project directory:
 
