@@ -44,7 +44,6 @@ function References() {
           </div>
         </div>
       </section>
-
       <section className="content-section">
         <h2>Environmental Organizations</h2>
         <div className="reference-list">
