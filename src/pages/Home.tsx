@@ -26,7 +26,9 @@ function Home({ setCurrentPage }: HomeProps) {
         <div className="card-grid">
           <button className="info-card" onClick={() => setCurrentPage('whatAre')}>
             <h3>What Are Fossil Fuels?</h3>
-            <p>[PLACEHOLDER TEXT: Brief description of what fossil fuels are and why it's important to understand them.]</p>
+            <p>Learn what coal, oil, and natural gas are, how they formed over millions of years, and why
+        understanding these fuels matters as we rely on them for energy but face growing climate and
+        pollution risks.</p>
           </button>
           <button className="info-card" onClick={() => setCurrentPage('concerns')}>
             <h3>Concerns & Effects</h3>

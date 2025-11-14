@@ -11,21 +11,21 @@ function WhatAreFossilFuels() {
       <section className="content-section">
         <h2>Definition</h2>
         <p>
-          Fossil fuels are energy-rich substances such as coal, oil (also called petroleum), and natural
-          gas that formed from the remains of ancient plants, algae, and tiny animals. When these organisms
-          died, they were buried under layers of sediment. Over millions of years, heat and pressure inside
-          Earth&apos;s crust transformed this buried organic matter into concentrated carbon-based fuels.
-          Because this process takes so long, fossil fuels are considered <strong>non-renewable</strong>:
-          once a deposit is used up, it cannot be replaced on any human time scale.
+          Fossil fuels are energy-dense materials like coal, oil (also called petroleum), and natural gas that 
+          developed from the remnants of ancient plants, algae, and small animals. These organisms died and were 
+          buried, over time, beneath layers of sediment. After millions of years, heat and pressure within the Earth&apos;s 
+          crust transformed the buried organic matter into concentrated carbon fuels. Because of the lengthy geological 
+          timescales involved in fossil fuel formation, fossil fuels are considered <strong>non-renewable</strong>: once a deposit is 
+          utilized, it cannot be replenished in any human timescale.
         </p>
         <p>
-          When we burn fossil fuels, we release the stored chemical energy as heat. That heat is used to
-          generate electricity in power plants, warm our homes, and move vehicles like cars, trucks,
-          buses, airplanes, and ships. Globally and in Wisconsin, fossil fuels still supply most of our
-          energy, even as wind, solar, and other renewables grow. However, burning these fuels releases
-          carbon dioxide, methane, and other greenhouse gases that drive climate change, along with air
-          pollutants that can harm human health—especially for people living near power plants, highways,
-          and industrial facilities.
+          When fossil fuels are burned, the energy rich chemical energy within the fuel is released as heat. 
+          That heat generates power at power plants, heats our homes, and powers vehicles such as cars, trucks, 
+          buses, aircraft and vessels. Globally, and in Wisconsin, fossil fuels still supply most our energy, 
+          even as wind, solar, and other renewables are increasing in prevalence. But purging fossil fuel 
+          releases carbon dioxide, methane and other greenhouse gases that cause climate change, along with 
+          pollutants related to other air quality problems that can harm human health - especially for people 
+          living in proximity to power plants, busy highways, and industrial plants.
         </p>
       </section>
 
@@ -35,64 +35,66 @@ function WhatAreFossilFuels() {
         <div className="subsection">
           <h3>Coal</h3>
           <p>
-            Coal is a black or brownish rock made mostly of carbon. It formed in ancient swampy
-            environments where thick layers of plants piled up, were buried, and slowly transformed under
-            heat and pressure. Coal is easy to store and transport and has historically been one of the
-            main fuels for generating electricity in the United States. Most coal is mined either at the
-            surface (by removing soil and rock to expose coal seams) or underground (by cutting tunnels
-            deep into the earth), then shipped by train or barge to power plants.
+            Coal is either black or brownish in color and mostly composed of carbon. It developed in ancient 
+            swampy places where layers of plants built up, became buried, and were transformed slowly under 
+            heat and pressure. Because it can be stored in piles and transported easily, coal has been a major 
+            fuel for electricity generation in the United States. Most of the coal mined is mined at the surface 
+            (by removing layers of soil or rock until coal seams are exposed), or underground (by cutting tunnels 
+            deep below the surface) and then transported by freight train or barge to electrical generation plants. 
           </p>
           <p>
-            Wisconsin does not mine its own coal; instead, utilities import coal from western and
-            Appalachian states to feed large power stations. For many years coal provided the largest share
-            of Wisconsin&apos;s electricity, and it still generates roughly one-third of in-state power
-            today. When coal is burned, it emits large amounts of carbon dioxide, sulfur dioxide,
-            nitrogen oxides, and tiny particles called particulate matter. These pollutants contribute to
-            climate change, smog, acid rain, and respiratory problems such as asthma, especially for
-            communities living near coal plants.
+            Wisconsin does not mine any coal, but rather, utilities import coal from states in the western 
+            United States and Appalachia for large coal fueled plant generation of electricity. For many decades, 
+            coal provided the largest share of the quality of electricity generation in Wisconsin, and today coal 
+            continues to generate approximately one-third of the power generated within Wisconsin. Coalition 
+            mining and burning generates high amounts of carbon dioxide, sulfur dioxide, nitrogen oxides, and fine 
+            particles often referred to as particulate matter, which is a main source of pollutants contributing to 
+            climate change, smog, acid rain, and respiratory health problems (e.g., asthma) for communities living 
+            near coal facilities.
           </p>
         </div>
 
         <div className="subsection">
           <h3>Natural Gas</h3>
           <p>
-            Natural gas is a mixture of gases, mostly methane, that forms when buried organic material is
-            subjected to higher temperatures and pressures than those that form coal. Companies drill wells
-            into deep rock layers and often use a technique called hydraulic fracturing (&quot;fracking&quot;)
-            to release gas trapped in shale and other formations. After impurities like water and sulfur
-            compounds are removed, the gas is moved through long-distance pipelines and used in power
-            plants, home heating and cooking, and industrial processes.
+            Natural gas is a type of gas that is mostly methane and is produced when organic material that has 
+            been buried lays under higher pressures and temperatures than what is needed to form coal. Companies 
+            drill wells that allow them to tap into deep rock formations and commonly apply hydraulic fracturing 
+            (&quot;fracking&quot;) to free gas from shale and other formations. Once impurities such as water and sulfur 
+            compounds are separated out, the gas is transported through long-distance pipeline and used to generate 
+            electricity, heat and cook homes, and support industrial activities.
           </p>
           <p>
-            In Wisconsin, natural gas has grown rapidly as a source of electricity. In 2024 it fueled about
-            40% of the state&apos;s total in-state generation, surpassing coal&apos;s share for the first
-            time. Supporters sometimes describe natural gas as a &quot;bridge fuel&quot; because gas plants
-            can ramp up and down quickly and emit less carbon dioxide than coal per unit of electricity.
-            However, burning natural gas still releases significant greenhouse gases, and methane leaks
-            along pipelines and at well sites are especially powerful at trapping heat in the atmosphere.
-            Gas plants also emit nitrogen oxides and other air pollutants that can worsen heart and lung
-            disease for people living nearby.
+            In Wisconsin, natural gas has become a rapidly expanding source of electricity. It generated 
+            approximately 40% of the state&apos;s total in-state generation and for the first time in 2024, more 
+            electricity was generated by natural gas than by coal. Advocates occasionally characterize natural 
+            gas as a &quot;bridge fuel,&quot; because gas plants can be ramped up or down quickly and when compared to 
+            coal they emit less carbon dioxide per unit of electricity generated. However, burning natural gas 
+            emits significant greenhouse gases and flushing methane through pipelines and at well sites is an 
+            especially potent greenhouse gas that traps heat in the atmosphere. Burning natural gas in power 
+            plants also generates nitrogen oxides and other air pollutants that can exacerbate heart disease and 
+            lung disease for nearby residents.
           </p>
         </div>
 
         <div className="subsection">
           <h3>Oil/Petroleum</h3>
           <p>
-            Oil, or petroleum, is a thick liquid fossil fuel that formed mainly from microscopic marine
-            organisms that settled on ancient seafloors. Over millions of years, heat and pressure turned
-            this organic-rich mud into oil and natural gas trapped in porous rock layers. Modern companies
-            locate these deposits using geological surveys and then drill wells on land or offshore to
-            reach them. In many regions, hydraulic fracturing is used to increase how much oil and gas can
-            flow from each well.
+            Oil, also referred to as petroleum, is a dense liquid fossil fuel primarily originating from tiny 
+            marine organisms that accumulated on seafloors eons ago. After millions of years, heat and pressure 
+            converted this organic-rich mud into oil and natural gas that are now contained in porous rock layers. 
+            Modern companies find these oil and gas deposits by using geological surveys, and drill oil wells on land, 
+            or offshore, to access the deposits. In some areas, hydraulic fracturing is used to enhance the volume of 
+            oil and gas that flows out of each well.
           </p>
           <p>
-            Crude oil is transported by pipelines, ships, rail, and trucks to refineries. There it is
-            heated and separated into different products in large distillation towers. These products
-            include gasoline, diesel, jet fuel, heating oil, and petrochemical feedstocks that are used to
-            make plastics, fertilizers, and many everyday products. Wisconsin does not produce much oil
-            itself, but our daily life depends on petroleum: most cars and trucks on Wisconsin roads still
-            run on gasoline or diesel, farm equipment relies on diesel, and airplanes use jet fuel. The
-            combustion of these fuels is a major source of climate-warming emissions and local air pollution.
+            Crude oil moves through pipelines, tanks, ships, rail, and trucks to refineries, where it is heated and 
+            separated into various fractional products using large distillation towers. The primary products include 
+            gasoline, diesel, jet fuel, heating oil, and petrochemical feedstocks used to produce plastics, fertilizers, 
+            and many other common products. Wisconsin does not produce a significant amount of oil, but our everyday 
+            lives are linked to the petroleum resource; most cars and trucks on Wisconsin roads operate on gasoline or 
+            diesel, farm equipment runs on diesel, and airplanes use jet fuel. But the combustion of these fuels is a 
+            significant source of emissions that are warming our climate and air pollution where we live.
           </p>
         </div>
       </section>
@@ -113,29 +115,29 @@ function WhatAreFossilFuels() {
       <section className="content-section">
         <h2>How Fossil Fuels Are Extracted and Processed</h2>
         <p>
-          Although fossil fuels all start as buried organic material, the modern extraction and processing
-          methods look different for coal, oil, and natural gas. Coal is usually obtained either by surface
-          mining—removing the top layers of soil and rock to expose coal seams—or by underground mining,
-          where tunnels are cut deep into the earth. Once mined, coal is crushed, sometimes washed to remove
-          impurities, and loaded onto trains, trucks, or barges that deliver it to power plants and factories.
+          Even though fossil fuels all begin as organic material that has been buried, the methods for extraction
+          and processing change significantly for coal, oil, and natural gas. Coal is extracted either through
+          surface mining- removing the top soil and rock to access the coals below or through underground mining
+          where a tunnel is drilled deep in the earth. Once harvested, the coal is crushed and washed to remove 
+          impurities and then loaded onto trains, trucks, or barges which deliver it to power plants and factories alike.
         </p>
         <p>
-          Oil and natural gas extraction typically starts with preparing a well site and drilling a vertical
-          well down to the target rock layer. In many areas the well is then steered horizontally to follow
-          the rock formation. Steel pipes and cement are used to seal the well and protect groundwater.
-          In modern operations, companies often use hydraulic fracturing: pumping water, sand, and small
-          amounts of chemicals at high pressure to create tiny cracks in the rock so oil and gas can flow
-          more easily into the well.
+          In the case of oil and natural gas, the extraction process usually begins with preparing a well site and drilling
+           in a vertical manner down to the rock layer that contains the organic material. In many situations, the well is makings
+            its first turn horizontally to follow the rock formation. Wells are sealed by the use of steel pipes and cement, which
+             allow the integrity of the well to be maintained as well as protect underground water supplies. Modern operations are 
+             now typically using hydraulic fracturing, in which water, sand, and small amounts of chemicals are pumped through the 
+             well at high pressure, through tiny cracks in the surrounding rock, for the purpose of increasing the flow of oil and 
+             gas into the well.
         </p>
         <p>
-          After extraction, crude oil is sent to refineries where it is heated and separated into different
-          products such as gasoline, diesel, and jet fuel, then further treated so it can be safely used in
-          engines and heaters. Natural gas is processed in gas plants to remove water, sulfur, and other
-          gases, producing a methane-rich fuel that can be safely transported in pipelines. While very
-          little fossil fuel extraction happens inside Wisconsin itself, the state is tightly connected to
-          this system: we rely on interstate pipelines, rail lines, and storage terminals to bring in coal,
-          oil, and gas from other regions, and we host large power plants that burn these fuels to generate
-          electricity for Wisconsin homes, schools, and businesses.
+          Once extraction takes place, crude oil is transported to refineries for heat and separation into different products like 
+          gasoline, diesel, and jet fuel, and then treated for use in engines and heaters. Natural gas is processed in gas plants to 
+          remove water, sulfur, and other gasses, resulting in a fuel rich in methane that is safe to move about in pipelines. Though 
+          there is very little fossil fuel extraction occurring in Wisconsin itself, the state is well connected to this system: we have 
+          a system of interstate pipelines, rail lines, and storage terminals to bring in coal, oil, and gas from other areas outside the 
+          state, and we have large power plants in Wisconsin that burn fossil fuels to generate electricity for use in Wisconsin homes, 
+          schools, and businesses.
         </p>
       </section>
     </div>
