@@ -40,7 +40,7 @@ function WhatAreFossilFuels() {
             heat and pressure. Coal is easy to store and transport and has historically been one of the
             main fuels for generating electricity in the United States. Most coal is mined either at the
             surface (by removing soil and rock to expose coal seams) or underground (by cutting tunnels
-            deep into the earth), then shipped by train or barge to power plants.
+            deep into the earth), then shipped by train or barge to power plants. 
           </p>
           <p>
             Wisconsin does not mine its own coal; instead, utilities import coal from western and
