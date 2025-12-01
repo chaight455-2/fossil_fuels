@@ -32,11 +32,11 @@ function Home({ setCurrentPage }: HomeProps) {
           </button>
           <button className="info-card" onClick={() => setCurrentPage('concerns')}>
             <h3>Concerns & Effects</h3>
-            <p>[PLACEHOLDER TEXT: Overview of environmental and health concerns related to fossil fuel consumption.]</p>
+            <p>Explore the environmental and health impacts of fossil fuel use in Wisconsin, from air and water pollution to climate change effects. Understand how these issues affect communities across the state and why urgent action is needed.</p>
           </button>
           <button className="info-card" onClick={() => setCurrentPage('help')}>
             <h3>How to Help</h3>
-            <p>[PLACEHOLDER TEXT: Introduction to actions individuals can take to reduce their fossil fuel consumption and environmental impact.]</p>
+            <p>Discover practical steps you can take to reduce fossil fuel consumption, from improving home energy efficiency to supporting clean energy policies. Learn how individual actions and community involvement can drive meaningful change in Wisconsin.</p>
           </button>
         </div>
       </section>

@@ -22,7 +22,7 @@ function ConcernsAndEffects() {
           <div>
             <h3>Air Quality</h3>
             <p>
-              [PLACEHOLDER TEXT: Information about air pollution caused by fossil fuel combustion, including particulate matter, nitrogen oxides, and sulfur dioxide, and how these affect Wisconsin communities.]
+              When fossil fuels are burned, they release pollutants into the air including particulate matter (PM2.5), nitrogen oxides (NOx), and sulfur dioxide (SO2). These pollutants contribute to smog formation, reduce visibility, and cause serious health problems. In Wisconsin, communities located near coal-fired power plants and highways with heavy truck traffic experience higher levels of air pollution, which can trigger asthma attacks, worsen respiratory conditions, and increase the risk of cardiovascular disease.
             </p>
           </div>
           <img src={smogImage} alt="Smog coming out of factory" className="section-image" />
@@ -31,7 +31,7 @@ function ConcernsAndEffects() {
           <div>
             <h3>Water Pollution</h3>
             <p>
-              [PLACEHOLDER TEXT: Details on water pollution from fossil fuel extraction, processing, and use, including impacts on Wisconsin's lakes and waterways.]
+              Fossil fuel extraction, processing, and combustion can contaminate water supplies through various pathways. Coal ash from power plants contains toxic heavy metals that can leach into groundwater if not properly stored. Oil and gas extraction, including hydraulic fracturing, can contaminate drinking water sources with chemicals and methane. In Wisconsin, spills, runoff, and improper disposal of fossil fuel waste threaten the state's lakes, rivers, and groundwater systems that communities depend on for drinking water and recreation.
             </p>
           </div>
           <img src={waterImage} alt="Polluted water" className="section-image" />
@@ -55,13 +55,13 @@ function ConcernsAndEffects() {
         <div className="subsection">
           <h3>Cardiovascular Disease</h3>
           <p>
-            [PLACEHOLDER TEXT: Explanation of how air pollution from fossil fuel combustion increases the risk of heart disease and stroke.]
+            Air pollution from burning fossil fuels doesn't just harm the lungs—it also damages the heart and blood vessels. Fine particulate matter (PM2.5) can enter the bloodstream and contribute to heart attacks, strokes, and other cardiovascular problems. Studies have shown that people living near coal plants and highways with heavy diesel truck traffic face elevated risks of heart disease. In Wisconsin, where many communities are located near aging power plants and major trucking routes, reducing fossil fuel emissions is essential to protecting cardiovascular health and reducing premature deaths.
           </p>
         </div>
         <div className="subsection">
           <h3>Vulnerable Populations</h3>
           <p>
-            [PLACEHOLDER TEXT: Discussion of how certain groups in Wisconsin - children, elderly, low-income communities, and communities of color - are disproportionately affected by fossil fuel pollution.]
+            Fossil fuel pollution does not affect all communities equally. Children, the elderly, people with pre-existing health conditions, low-income communities, and communities of color often bear a disproportionate burden of pollution and its health impacts. In Wisconsin, neighborhoods near industrial facilities and major transportation corridors—where air quality is poorest—are more likely to have higher rates of asthma, respiratory illness, and other pollution-related diseases. Addressing these environmental justice concerns requires targeted action to reduce emissions in the most affected areas and ensure that all Wisconsin residents have access to clean air and water.
           </p>
         </div>
       </section>
@@ -69,7 +69,7 @@ function ConcernsAndEffects() {
       <section className="content-section">
         <h2>Economic Concerns</h2>
         <p>
-          [PLACEHOLDER TEXT: Explanation of economic impacts including energy costs, infrastructure investments needed, and opportunities lost by not transitioning to renewable energy.]
+          While fossil fuels have historically provided affordable energy, the true costs extend far beyond monthly utility bills. Healthcare expenses from pollution-related illnesses, lost productivity due to sick days, and damage from extreme weather events driven by climate change all represent significant economic burdens. Wisconsin communities also face mounting costs to repair aging fossil fuel infrastructure and clean up contaminated sites. Meanwhile, renewable energy prices have dropped dramatically, making clean energy increasingly cost-competitive. By investing in energy efficiency and renewable sources, Wisconsin can create local jobs, keep energy dollars in-state rather than sending them to out-of-state coal and gas suppliers, and avoid the long-term economic risks of continued fossil fuel dependence.
         </p>
       </section>
 

@@ -64,6 +64,13 @@ function References() {
               https://afdc.energy.gov/laws/all?state=WI
             </p>
           </div>
+          <div className="reference-item">
+            <h4>ENERGY STAR – Energy Efficient Products</h4>
+            <p>
+              U.S. Environmental Protection Agency &amp; U.S. Department of Energy. Retrieved from
+              https://www.energystar.gov/products
+            </p>
+          </div>
         </div>
       </section>
 
@@ -103,6 +110,34 @@ function References() {
             <p>
               Wisconsin Bike Federation. Retrieved from
               https://wisconsinbikefed.org
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>350 Wisconsin</h4>
+            <p>
+              350 Wisconsin. Retrieved from
+              https://350wisconsin.org/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Wisconsin Conservation Voters</h4>
+            <p>
+              Wisconsin Conservation Voters. Retrieved from
+              https://conservationvoters.org/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Sierra Club – Wisconsin Chapter</h4>
+            <p>
+              Sierra Club Wisconsin Chapter. Retrieved from
+              https://www.sierraclub.org/wisconsin
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Citizens' Climate Lobby</h4>
+            <p>
+              Citizens' Climate Lobby. Retrieved from
+              https://citizensclimatelobby.org/
             </p>
           </div>
         </div>
@@ -166,6 +201,69 @@ function References() {
             <p>
               We Energies. Retrieved from
               https://www.we-energies.com/services/electric-vehicles/ev-charger-pilot
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Focus on Energy – Insulation &amp; Air Sealing</h4>
+            <p>
+              Focus on Energy. Retrieved from
+              https://focusonenergy.com/residential/insulation-and-air-sealing
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Focus on Energy – DIY Insulation &amp; Air Sealing Rebates</h4>
+            <p>
+              Focus on Energy. Retrieved from
+              https://focusonenergy.com/residential/diy
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Focus on Energy – Residential Programs</h4>
+            <p>
+              Focus on Energy. Retrieved from
+              https://focusonenergy.com/residential
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Wisconsin DNR – Recycling and Composting</h4>
+            <p>
+              Wisconsin Department of Natural Resources. Retrieved from
+              https://dnr.wisconsin.gov/topic/Recycling
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Wisconsin DNR – Recycling and Waste Reduction Tips</h4>
+            <p>
+              Wisconsin Department of Natural Resources. Retrieved from
+              https://dnr.wisconsin.gov/topic/Recycling/Tips.html
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Clean Wisconsin – Home Energy Rebates Help Wisconsinites Save Big</h4>
+            <p>
+              Clean Wisconsin. Retrieved from
+              https://www.cleanwisconsin.org/home-energy-rebates-help-wisconsinites-save-big/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Wisconsin Sustainable Business Council – Green Masters Program</h4>
+            <p>
+              Wisconsin Sustainable Business Council. Retrieved from
+              https://wisconsinsustainability.com/green-masters-program/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Office of Sustainability and Clean Energy – Wisconsin Clean Energy Plan</h4>
+            <p>
+              State of Wisconsin, Department of Administration. Retrieved from
+              https://osce.wi.gov/Pages/CleanEnergyPlan.aspx
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Dane County Office of Energy and Climate Change</h4>
+            <p>
+              Dane County Office of Energy and Climate Change. Retrieved from
+              https://daneclimateaction.org/
             </p>
           </div>
         </div>
