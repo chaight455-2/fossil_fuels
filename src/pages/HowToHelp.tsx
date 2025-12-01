@@ -1,6 +1,8 @@
 import '../styles/Pages.css'
 import busImage from '../assets/cityscape_with_bikers_and_buses.webp'
 import veggiesImage from '../assets/Vegetables_on_plates.webp'
+import energySavingImage from '../assets/energy-saving-for-a-household.webp'
+import advocacyImage from '../assets/environmental-advocacy.webp'
 
 function HowToHelp() {
   return (
@@ -121,13 +123,16 @@ function HowToHelp() {
       <section className="content-section">
         <h2>Home Energy</h2>
         <div className="subsection">
-          <h3>Improve Home Insulation</h3>
-          <p>
-            Homeowners in Wisconsin can greatly reduce the amount of fossil fuels used in their homes through insulation and by sealing air leaks. Many houses have multiple tiny openings around the attic, basement, windows and doors which can total to about the same size as an open window. The warm air that escapes through these little openings during winter months results in having to run your furnace longer and burn additional fossil fuel; whereas, during summer months the cold air that escapes results in having to run your air conditioning unit longer and using additional fossil fuels.
-          </p>
-          <p>
-            Weatherstripping around your doorways, caulking around your windows, and sealing up holes and cracks around any plumbing/wiring are examples of small projects that can result in significant energy savings. In addition to sealing and weatherstripping your house, upgrading to better insulation in the attic or basement will also reduce the amount of energy needed to heat and cool your house. The state of Wisconsin has a home energy assessment program through Focus on Energy and through local utility companies, which provides rebates for professional installation and air sealing, as well as cash for doing it yourself (DIY). These programs enable these households to pay back their upfront costs while also reducing the amount of energy consumed through coal- and gas-fired power plant production, which our white paper identifies as two of the largest sources of greenhouse gas emissions and air pollutants in Wisconsin.
-          </p>
+          <div>
+            <h3>Improve Home Insulation</h3>
+            <p>
+              Homeowners in Wisconsin can greatly reduce the amount of fossil fuels used in their homes through insulation and by sealing air leaks. Many houses have multiple tiny openings around the attic, basement, windows and doors which can total to about the same size as an open window. The warm air that escapes through these little openings during winter months results in having to run your furnace longer and burn additional fossil fuel; whereas, during summer months the cold air that escapes results in having to run your air conditioning unit longer and using additional fossil fuels.
+            </p>
+            <p>
+              Weatherstripping around your doorways, caulking around your windows, and sealing up holes and cracks around any plumbing/wiring are examples of small projects that can result in significant energy savings. In addition to sealing and weatherstripping your house, upgrading to better insulation in the attic or basement will also reduce the amount of energy needed to heat and cool your house. The state of Wisconsin has a home energy assessment program through Focus on Energy and through local utility companies, which provides rebates for professional installation and air sealing, as well as cash for doing it yourself (DIY). These programs enable these households to pay back their upfront costs while also reducing the amount of energy consumed through coal- and gas-fired power plant production, which our white paper identifies as two of the largest sources of greenhouse gas emissions and air pollutants in Wisconsin.
+            </p>
+          </div>
+          <img src={energySavingImage} alt="Energy-saving improvements for a household" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Switch to Renewable Energy</h3>
@@ -198,16 +203,19 @@ function HowToHelp() {
       <section className="content-section">
         <h2>Community Involvement</h2>
         <div className="subsection">
-          <h3>Advocate for Policy Change</h3>
-          <p>
-            While individual action has a role to play, long-term reductions in fossil fuel use will depend on strong government policies, support through public investment, and the ability for state and local entities to leverage these investments. The state of Wisconsin has adopted a state Clean Energy Plan which outlines how the state will achieve carbon-free electricity, while also ensuring that more of Wisconsin's energy dollars remain in-state as opposed to paying to import fossil fuels (and therefore reducing its vulnerability and reliance on foreign sources of energy).
-          </p>
-          <p>
-            Wisconsin residents can help influence the development of these policies through contact with their local (city/county/state/federal) representatives, attending public meetings related to energy and climate planning, and submitting public comments related to their energy and climate plan to the respective agencies. A resident can ask their representatives to support legislation that supports or incentivises the continued growth of renewable energy development; supports energy efficiency programming; and creates opportunities for improved or expanded use and access to public transportation; and protects the most vulnerable populations from the immediate and long-term impacts of pollution.
-          </p>
-          <p>
-            Several examples of local governments leading in their clean energy efforts include counties setting ambitious clean energy goals; counties investing in solar energy projects; and counties investing in municipal transportation systems supported by renewable sources of energy. These examples demonstrate how to leverage public resources through public leadership, and they illustrate how the community can accelerate the transition away from fossil fuels through their engagement and support.
-          </p>
+          <div>
+            <h3>Advocate for Policy Change</h3>
+            <p>
+              While individual action has a role to play, long-term reductions in fossil fuel use will depend on strong government policies, support through public investment, and the ability for state and local entities to leverage these investments. The state of Wisconsin has adopted a state Clean Energy Plan which outlines how the state will achieve carbon-free electricity, while also ensuring that more of Wisconsin's energy dollars remain in-state as opposed to paying to import fossil fuels (and therefore reducing its vulnerability and reliance on foreign sources of energy).
+            </p>
+            <p>
+              Wisconsin residents can help influence the development of these policies through contact with their local (city/county/state/federal) representatives, attending public meetings related to energy and climate planning, and submitting public comments related to their energy and climate plan to the respective agencies. A resident can ask their representatives to support legislation that supports or incentivises the continued growth of renewable energy development; supports energy efficiency programming; and creates opportunities for improved or expanded use and access to public transportation; and protects the most vulnerable populations from the immediate and long-term impacts of pollution.
+            </p>
+            <p>
+              Several examples of local governments leading in their clean energy efforts include counties setting ambitious clean energy goals; counties investing in solar energy projects; and counties investing in municipal transportation systems supported by renewable sources of energy. These examples demonstrate how to leverage public resources through public leadership, and they illustrate how the community can accelerate the transition away from fossil fuels through their engagement and support.
+            </p>
+          </div>
+          <img src={advocacyImage} alt="Environmental advocacy and community action" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Support Environmental Organizations</h3>

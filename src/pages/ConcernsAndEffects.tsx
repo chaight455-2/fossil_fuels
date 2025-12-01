@@ -1,6 +1,7 @@
 import '../styles/Pages.css'
 import smogImage from '../assets/Smog_coming_out_of_factory.webp'
 import waterImage from '../assets/polluted_water.webp'
+import respiratoryImage from '../assets/respiratory-disease.webp'
 
 function ConcernsAndEffects() {
   return (
@@ -47,10 +48,13 @@ function ConcernsAndEffects() {
       <section className="content-section">
         <h2>Health Impacts</h2>
         <div className="subsection">
-          <h3>Respiratory Diseases</h3>
-          <p>
-            Emissions that are released by these plants are extremely harmful to public health. Many residents that live near these systems are at high risk for long term respiratory issues and even shorter life spans from particulate matter as well as exposure of the ozone layer. Many Wisconsinites unfortunately remain unaware of this serious harm and take little to no action. Communities near Milwaukee and Portage, where there are large power plants, have reported that asthma rates are skyrocketing as well as soil depletion. These results show that fossil fuels are not just an environmental issue, but a serious issue of human safety and well being.
-          </p>
+          <div>
+            <h3>Respiratory Diseases</h3>
+            <p>
+              Emissions that are released by these plants are extremely harmful to public health. Many residents that live near these systems are at high risk for long term respiratory issues and even shorter life spans from particulate matter as well as exposure of the ozone layer. Many Wisconsinites unfortunately remain unaware of this serious harm and take little to no action. Communities near Milwaukee and Portage, where there are large power plants, have reported that asthma rates are skyrocketing as well as soil depletion. These results show that fossil fuels are not just an environmental issue, but a serious issue of human safety and well being.
+            </p>
+          </div>
+          <img src={respiratoryImage} alt="Person with respiratory disease" className="section-image" />
         </div>
         <div className="subsection">
           <h3>Cardiovascular Disease</h3>
