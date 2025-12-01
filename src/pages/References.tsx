@@ -71,6 +71,26 @@ function References() {
               https://www.energystar.gov/products
             </p>
           </div>
+          <div className="reference-item">
+            <h4>World Health Organization – Air Pollution</h4>
+            <p>
+              World Health Organization. (2024). Retrieved from
+              https://www.who.int/health-topics/air-pollution
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="content-section">
+        <h2>Health &amp; Scientific Research</h2>
+        <div className="reference-list">
+          <div className="reference-item">
+            <h4>Harvard T.H. Chan School of Public Health – The Dangers of Air Pollution for Heart Health</h4>
+            <p>
+              Harvard T.H. Chan School of Public Health. (2025). Retrieved from
+              https://hsph.harvard.edu/news/the-dangers-of-air-pollution-for-heart-health/
+            </p>
+          </div>
         </div>
       </section>
 
@@ -96,6 +116,20 @@ function References() {
             <p>
               Clean Wisconsin. Retrieved from
               https://www.cleanwisconsin.org/our-air/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Clean Wisconsin – Wisconsin Ranks Third Worst in Country for Air Pollution Exposure Disparities</h4>
+            <p>
+              Clean Wisconsin. (2022). Retrieved from
+              https://www.cleanwisconsin.org/study-shows-wisconsin-has-one-of-the-largest-racial-disparities-in-the-nation-for-exposure-to-dangerous-air-pollution-particles/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Earthjustice – An Oil Tunnel is Threatening the Great Lakes</h4>
+            <p>
+              Earthjustice. (2025). Retrieved from
+              https://earthjustice.org/article/the-great-lakes-under-threat
             </p>
           </div>
           <div className="reference-item">
@@ -264,6 +298,13 @@ function References() {
             <p>
               Dane County Office of Energy and Climate Change. Retrieved from
               https://daneclimateaction.org/
+            </p>
+          </div>
+          <div className="reference-item">
+            <h4>Wisconsin Public Radio – More Than 70 Partners Form Coalition on Earth Day to Promote Climate Action</h4>
+            <p>
+              Wisconsin Public Radio. (2025). Retrieved from
+              https://www.wpr.org/news/70-partners-wisconsin-form-coalition-earth-day-climate-action-chat
             </p>
           </div>
         </div>
